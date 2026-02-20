@@ -1,0 +1,70 @@
+# [Project Name]
+
+## Overview
+[2-3 righe: cosa fa, problema che risolve]
+
+## Stack
+| Tech | Version | Note |
+|------|---------|------|
+| [Framework] | [X.Y+] | [Perché/Quirks] |
+
+## Getting Started
+### Prerequisites
+- Node [version]
+- [Altri requisiti]
+
+### Setup
+\`\`\`bash
+npm install
+[altri comandi setup]
+\`\`\`
+
+### Running
+\`\`\`bash
+npm run dev  # [porta/dettagli]
+\`\`\`
+
+## Architecture
+\`\`\`
+src/
+├─ [folder]/ # [scopo]
+└─ [folder]/ # [scopo]
+\`\`\`
+
+**Pattern:** [Architettura principale - es: "Clean Architecture con 3 layers"]
+
+## Database Schema
+[Tabelle principali con colonne chiave]
+
+## API Reference
+| Method | Endpoint | Descrizione |
+|--------|----------|-------------|
+| [GET] | [/path] | [Cosa fa] |
+
+## Conventions
+### Code Style
+- [Naming conventions]
+- [Pattern da seguire]
+
+### Testing
+- [Cosa testare]
+- [Come scrivere test]
+
+## Boundaries
+✅ **Always**
+- [Cosa è safe fare autonomamente]
+
+⚠️ **Ask First**
+- [Cosa richiede discussione]
+
+🚫 **Never**
+- [Cosa è vietato]
+
+## Troubleshooting
+**[Errore comune]**
+→ Causa: [perché]
+→ Fix: [come risolvere]
+
+## Resources
+- [Link docs esterne]
+- [Wiki interna]
